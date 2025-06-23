@@ -5,7 +5,31 @@ Welcome to **DevCart** — a full-stack e-commerce website featuring a clean and
 ---
 
 ## 🖼️ Preview
-[!image](https://github-production-user-asset-6210df.s3.amazonaws.com/145452106/458088954-d80d66ff-a53b-441b-9568-a5d398a18480.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250623%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250623T201339Z&X-Amz-Expires=300&X-Amz-Signature=915327584e883333b65a35c3ff147f2ebea6a8889f94e421d9baec11b461dc93&X-Amz-SignedHeaders=host)
+Home Page - [!image](https://github-production-user-asset-6210df.s3.amazonaws.com/145452106/458088954-d80d66ff-a53b-441b-9568-a5d398a18480.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250623%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250623T201339Z&X-Amz-Expires=300&X-Amz-Signature=915327584e883333b65a35c3ff147f2ebea6a8889f94e421d9baec11b461dc93&X-Amz-SignedHeaders=host)
+
+Login Form - ![image](https://github.com/user-attachments/assets/0617c138-0582-4ba5-8ebb-12c151d460d1)
+
+Registration Form - ![image](https://github.com/user-attachments/assets/23dd57dd-0320-457e-a8fa-e2fbe7652f8c)
+
+Loging Successfull - ![image](https://github.com/user-attachments/assets/5b297b99-4862-493a-809e-bb7f7d6f03f5)
+
+New Account - ![image](https://github.com/user-attachments/assets/ea0e3ca1-6ac4-4799-84aa-8a23bf45eee0)
+
+Detail Page - ![image](https://github.com/user-attachments/assets/e0e3c7d2-1746-4b63-b6ed-e76cb9b014ba)
+
+Suggested Products - ![image](https://github.com/user-attachments/assets/bc23a401-e0e9-48d6-aef6-4c9df154d1a4)
+
+Add to cart - ![image](https://github.com/user-attachments/assets/647cff48-251e-4553-afe3-e524062f6b84)
+
+Cart Page - ![image](https://github.com/user-attachments/assets/fad782ba-3afa-44c9-ac2f-ab537fb7b47d)
+
+Order All Button - ![image](https://github.com/user-attachments/assets/791fdb1d-5769-495c-b905-c51a5cb56193)
+
+My Orders Page (Without Login) - ![image](https://github.com/user-attachments/assets/bb443d70-a7ad-4b1e-988a-59e7f359074d)
+
+My Orders page (With an account) - ![image](https://github.com/user-attachments/assets/8e331e31-aa0c-4951-87da-7a37059e6e35)
+
+Database - ![image](https://github.com/user-attachments/assets/9b279809-f6d6-45e7-871c-10041156e783)
 
 ---
 
