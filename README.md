@@ -5,7 +5,7 @@ Welcome to **DevCart** — a full-stack e-commerce website featuring a clean and
 ---
 
 ## 🖼️ Preview
-Home Page - ![image](https://github.com/user-attachments/assets/1daa45ca-4b40-4a4e-babe-ac4c704c5349)
+Home Page - ![image](https://github.com/user-attachments/assets/5b8343b5-324c-4982-ae28-e3d302177d78)
 
 Login Form - ![image](https://github.com/user-attachments/assets/0617c138-0582-4ba5-8ebb-12c151d460d1)
 
