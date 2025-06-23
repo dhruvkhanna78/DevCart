@@ -6,7 +6,8 @@ Welcome to **DevCart** — a full-stack e-commerce website featuring a clean and
 
 ## 🖼️ Preview
 
-![DevCart Screenshot](https://source.unsplash.com/random/1200x400?ecommerce)  
+![DevCart Screenshot](![image](https://github.com/user-attachments/assets/d80d66ff-a53b-441b-9568-a5d398a18480)
+)  
 *(Replace with your own screenshots)*
 
 ---
