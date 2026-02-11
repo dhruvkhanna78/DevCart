@@ -20,7 +20,7 @@ await connectCloudinary();
 //allow multiple origins
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://dev-cart.vercel.app/",
+  "https://dev-cart.vercel.app",
 ];
 
 //Middleware configuration
