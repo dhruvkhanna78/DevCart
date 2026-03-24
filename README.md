@@ -56,11 +56,11 @@ DevCart is a full-stack application designed to handle the complexities of moder
 
 | Component | Technology |
 | :--- | :--- |
-| **Frontend** | React.js / Next.js, Tailwind CSS, Redux/Context API |
+| **Frontend** | React.js, Tailwind CSS, Context API |
 | **Backend** | Node.js, Express.js |
-| **Database** | MongoDB / PostgreSQL |
-| **Authentication** | JSON Web Tokens (JWT) / OAuth |
-| **Deployment** | Docker, AWS / Vercel |
+| **Database** | MongoDB |
+| **Authentication** | JSON Web Tokens (JWT) |
+| **Deployment** |  Vercel |
 
 ## Installation and Deployment
 
