@@ -137,5 +137,3 @@ This project is licensed under the MIT License. Refer to the `LICENSE` file for 
 Project Link: [https://github.com/dhruvkhanna78/DevCart](https://github.com/dhruvkhanna78/DevCart)
 
 -----
-
-Would you like me to generate a specific **Folder Structure** tree to add to this README?
