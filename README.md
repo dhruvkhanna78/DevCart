@@ -29,7 +29,7 @@ DevCart is a full-stack application designed to handle the complexities of moder
 ![Cart](./client/src/assets/cart.png)
 
 ### Admin signup page
-![Admin signup/login page](./client/src/assets/sellerloginpage.png)
+![Admin signup/login page](/client/src/assets/sellerloginpage.png)
 
 ### Admin page
 ![Admin page](./client/src/assets/adminpage.png)
