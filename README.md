@@ -134,6 +134,6 @@ This project is licensed under the MIT License. Refer to the `LICENSE` file for 
 ## Contact
 
 **Dhruv Khanna** GitHub: [dhruvkhanna78](https://www.google.com/search?q=https://github.com/dhruvkhanna78)  
-Project Link: [https://github.com/dhruvkhanna78/DevCart](https://github.com/dhruvkhanna78/DevCart)
+Project Link: (https://dev-cart.vercel.app/)
 
 -----
